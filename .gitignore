@@ -1,0 +1,7 @@
+*.exe
+*.pdb
+*.chr
+*.log
+roms
+scripts
+ines
